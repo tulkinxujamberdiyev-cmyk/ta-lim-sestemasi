@@ -1,1 +1,8 @@
 print("Таълим системаси лойиҳасига хуш келибсиз!")
+print("Welcome to Aeon Academia")
+print("Initializing AI Agent Army...")
+print("Chief AI Online")
+print("Tutor AI Online")
+print("Professor AI Online")
+print("Research AI Online")
+print("System Ready!")
